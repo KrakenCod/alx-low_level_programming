@@ -1,1 +1,1 @@
-My first readme on low level programming
+The is my intro to C from ALX path to SE
